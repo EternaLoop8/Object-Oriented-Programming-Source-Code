@@ -52,4 +52,6 @@ int main()
     {
         cout << "d2 is not a member of the Derv1 class\n";
     }
+
+    return 0;
 }
